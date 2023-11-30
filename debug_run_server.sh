@@ -1,0 +1,1 @@
+GODEBUG=http2debug=2 go run main.go -app=server
